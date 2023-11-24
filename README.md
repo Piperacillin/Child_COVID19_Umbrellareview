@@ -1,4 +1,4 @@
-![image](https://github.com/Piperacillin/Child_COVID19_Umbrellareview/assets/88216400/647f7be7-a560-46b2-b3ed-de82bf94453d)![image](https://github.com/Piperacillin/Child_COVID19_Umbrellareview/assets/88216400/a2e10a61-d8ed-458d-b460-2685a6643809)# Child_COVID19_Umbrellareview
+# Child_COVID19_Umbrellareview
 Examples scripts for the manuscript 'Evidence linking COVID-19 and the health/well-being of children and adolescents: An umbrella review'
 
 descriptive_summaries.R: developed to generate Table 1 and Table 2 using the Additional file 'Detailed information on the characteristics of the included systematic reviews'.
