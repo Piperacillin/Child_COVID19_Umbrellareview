@@ -1,5 +1,5 @@
 # Child_COVID19_Umbrellareview
-Examples scripts for the manuscript 'Evidence linking COVID-19 and the health/well-being of children and adolescents: An umbrella review'
+Rscripts snippets for the manuscript 'Evidence linking COVID-19 and the health/well-being of children and adolescents: An umbrella review'
 
 descriptive_summaries.R: developed to generate Table 1 and Table 2 using the Additional file 'Detailed information on the characteristics of the included systematic reviews'.
 
